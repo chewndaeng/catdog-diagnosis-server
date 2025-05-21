@@ -1,4 +1,5 @@
 flask
 torch
 torchvision
+timm
 Pillow
